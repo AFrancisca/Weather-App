@@ -3,11 +3,10 @@
   
 }
 form{
-  width: 100%;
   max-width: 540px;
   background-color: #fff;
   padding: 40px 30px 70px;
-  margin: 100px auto 20px;
+  margin: 70px auto 20px;
   border-radius: 15px;  
 }
 
@@ -25,6 +24,12 @@ input {
     margin: 5px;
   }
   body{
-   /* background: linear-gradient(125deg, #bdc3c7, #2c3e50);*/
     background: linear-gradient(120deg, #56ab2f, #a8e063);
+  }
+  #weather-info{
+    margin: 70px auto 200px;
+    justify-content: center;
+    position: relative;
+    left: 500px;
+    padding: 20px;
   }
