@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  
+}
+form{
+  width: 100%;
+  max-width: 540px;
+  background-color: #fff;
+  padding: 40px 30px 70px;
+  margin: 100px auto 20px;
+  border-radius: 15px;  
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin: 5px;
+  }
+  
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin: 5px;
+  }
+  body{
+   /* background: linear-gradient(125deg, #bdc3c7, #2c3e50);*/
+    background: linear-gradient(120deg, #56ab2f, #a8e063);
+  }
